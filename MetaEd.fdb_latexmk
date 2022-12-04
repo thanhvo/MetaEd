@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber MetaEd"] 1670144338 "MetaEd.bcf" "MetaEd.bbl" "MetaEd" 1670145315
-  "MetaEd.bcf" 1670145314 91260 bca9ecf56371e7c76ebd4a1a27a7482c "pdflatex"
+["biber MetaEd"] 1670164746 "MetaEd.bcf" "MetaEd.bbl" "MetaEd" 1670166404
+  "MetaEd.bcf" 1670166403 91136 430cc411ca8e7ea0f2716126d86555f1 "pdflatex"
   "MetaEd.bib" 1670144305 7752 c245c15fd8b2eaf24acd71015d039cc2 ""
   (generated)
   "MetaEd.bbl"
   "MetaEd.blg"
-["pdflatex"] 1670145313 "MetaEd.tex" "MetaEd.pdf" "MetaEd" 1670145315
+["pdflatex"] 1670166402 "MetaEd.tex" "MetaEd.pdf" "MetaEd" 1670166404
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -90,11 +90,11 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "Headings.tex" 1670145300 1212 371a7ed82a55233190e7f1656a1ad058 ""
-  "MetaEd.aux" 1670145314 2409 1b4f35145314bddb438216ee7c980db8 "pdflatex"
-  "MetaEd.bbl" 1670144339 18902 13e49cf5390c41dc6d2da57d7176b698 "biber MetaEd"
-  "MetaEd.run.xml" 1670145314 2414 254000c495383c475211b256e0d16518 "pdflatex"
-  "MetaEd.tex" 1670145224 8589 855d7e78e8491926c92a5e4b5c291eb6 ""
+  "Headings.tex" 1670166399 809 381d7c972b66774812e4d7bf598f6d0c ""
+  "MetaEd.aux" 1670166403 2327 c1c0b7afcaa7c399411198259ac80927 "pdflatex"
+  "MetaEd.bbl" 1670164747 18902 13e49cf5390c41dc6d2da57d7176b698 "biber MetaEd"
+  "MetaEd.run.xml" 1670166403 2414 254000c495383c475211b256e0d16518 "pdflatex"
+  "MetaEd.tex" 1670166345 9997 798b42901e5c8b6353f2e153d3bd826c ""
   (generated)
   "Headings.aux"
   "MetaEd.aux"
